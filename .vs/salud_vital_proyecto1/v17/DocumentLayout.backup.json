@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|c:\\users\\nath\\source\\repos\\salud_vital_proyecto1\\core\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|solutionrelative:core\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|c:\\users\\nath\\source\\repos\\salud_vital_proyecto1\\core\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|solutionrelative:core\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|c:\\users\\nath\\source\\repos\\salud_vital_proyecto1\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|c:\\users\\nath\\source\\repos\\salud_vital_proyecto1\\core\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|solutionrelative:core\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|c:\\users\\nath\\source\\repos\\salud_vital_proyecto1\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|c:\\users\\nath\\source\\repos\\salud_vital_proyecto1\\core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|solutionrelative:core\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|c:\\users\\nath\\source\\repos\\salud_vital_proyecto1\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|c:\\users\\nath\\source\\repos\\salud_vital_proyecto1\\core\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|solutionrelative:core\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|c:\\users\\nath\\source\\repos\\salud_vital_proyecto1\\core\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|solutionrelative:core\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|c:\\users\\nath\\source\\repos\\salud_vital_proyecto1\\dtos\\createappointmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|solutionrelative:dtos\\createappointmentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|c:\\users\\nath\\source\\repos\\salud_vital_proyecto1\\core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|solutionrelative:core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|c:\\users\\nath\\source\\repos\\salud_vital_proyecto1\\core\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|solutionrelative:core\\services\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|c:\\users\\nath\\source\\repos\\salud_vital_proyecto1\\infraestructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|solutionrelative:infraestructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|c:\\users\\nath\\source\\repos\\salud_vital_proyecto1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E8D26C3-CE1A-4B58-BF13-F91EE0A972EF}|salud_vital_proyecto1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Services\\UserService.cs",
+              "RelativeToolTip": "Core\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T22:54:11.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Interfaces\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "Core\\Interfaces\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Interfaces\\IAppointmentService.cs",
+              "RelativeToolTip": "Core\\Interfaces\\IAppointmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:49:19.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:47:14.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:06:07.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Entities\\User.cs",
+              "RelativeToolTip": "Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T22:53:53.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Entities\\Appointment.cs",
+              "RelativeToolTip": "Core\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:59:05.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Services\\AppointmentService.cs*",
+              "RelativeToolTip": "Core\\Services\\AppointmentService.cs*",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAiwHMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:49:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Entities\\Doctor.cs",
+              "RelativeToolTip": "Core\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T03:55:10.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:06:05.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Services\\LogService.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\LogService.cs",
+              "ToolTip": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Services\\LogService.cs",
+              "RelativeToolTip": "Core\\Services\\LogService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:56:50.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateAppointmentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\DTOs\\CreateAppointmentRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateAppointmentRequest.cs",
+              "ToolTip": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\DTOs\\CreateAppointmentRequest.cs",
+              "RelativeToolTip": "DTOs\\CreateAppointmentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T22:16:15.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "Core\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Core\\Entities\\Patient.cs",
+              "RelativeToolTip": "Core\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T23:07:15.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:56:07.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Infraestructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\nath\\source\\repos\\salud_vital_proyecto1\\Infraestructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T21:58:40.2Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
